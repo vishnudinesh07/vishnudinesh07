@@ -1,8 +1,22 @@
-<h1 align="center">Hi 👋, I'm Vishnu Dinesh</h1>
-<h3 align="center">Business Intelligence Developer | Data Engineering | Applied Machine Learning</h3>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=VT323&size=26&duration=2500&pause=800&color=00FF66&background=000000&center=true&vCenter=true&width=800&lines=HELLO+%F0%9F%91%8B+I+AM+VISHNU+DINESH;DATA+SCIENCE+PROFESSIONAL"
+    alt="LED typing header"
+  />
+</h1>
+
+<h3 align="center">
+  <strong>
+    <span style="color:#DC2626;">Business Intelligence @ NHS</span> Developer 
+    <span style="color:#2E8BFF;">|</span> 
+    Developing AI/ML Products
+  </strong>
+</h3>
 
 <p align="center">
-Building production-grade data systems, predictive models and operational intelligence platforms.
+  <img src="https://img.shields.io/badge/Location-United_Kingdom-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Production_AI_&_BI-DC2626?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Domain-Healthcare_Analytics-16A34A?style=flat-square"/>
 </p>
 
 ---
@@ -13,7 +27,7 @@ Building production-grade data systems, predictive models and operational intell
 - 📊 Building **real-time risk scoring and operational dashboards**
 - 👯 Open to collaborate on **Applied AI / Data Engineering / ML Systems**
 - 👨‍💻 Projects: [github.com/vishnudinesh07](https://github.com/vishnudinesh07)
-- 📫 Reach me: **vishnu.dinesh.official@gmail.com**
+- 📫 Reach me: vishnu.dinesh.official@gmail.com
 
 ---
 
