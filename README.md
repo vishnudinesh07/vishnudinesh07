@@ -9,7 +9,9 @@
   <strong>
     <span style="color:#DC2626;">Business Intelligence Developer
     <span style="color:#2E8BFF;">|</span> 
-    Developing AI/ML Products
+    AI/ML Products
+    <span style="color:#2E8BFF;">|</span> 
+    Dashboard App
   </strong>
 </h3>
 
