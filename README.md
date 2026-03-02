@@ -126,16 +126,24 @@
 
 <br/><br/>
 
-<h3 align="left">Philosophy</h3>
+<h3 align="center">Philosophy</h3>
 
-<p>
-Structured data → Reliable models → Measurable operational impact
+<p align="center">
+  <span style="font-size:18px;">
+    <strong>
+      Structured Data 
+      <span style="color:#0A66C2;">→</span> 
+      Reliable Models 
+      <span style="color:#0A66C2;">→</span> 
+      <span style="color:#DC2626;">Measurable Operational Impact</span>
+    </strong>
+  </span>
 </p>
-
+<br/>
 <p align="center">
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 </p>
-
+<br/>
 <p align="center">
 ⭐ If you are building scalable AI systems or operational data platforms, let's connect.
 </p>
