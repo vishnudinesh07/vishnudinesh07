@@ -127,15 +127,15 @@
 <h3 align="center">Philosophy</h3>
 
 <p align="center">
-  <span style="font-size:18px;">
-    <strong>
-      Structured Data 
-      <span style="color:#0A66C2;">→</span> 
-      Reliable Models 
-      <span style="color:#0A66C2;">→</span> 
-      <span style="color:#DC2626;">Measurable Operational Impact</span>
-    </strong>
-  </span>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2400&pause=800&color=0A66C2&center=true&vCenter=true&width=760&lines=Structured+Data+%E2%86%92+Reliable+Models"
+    alt="Philosophy line 1"
+  />
+  <br/>
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=2400&pause=800&color=DC2626&center=true&vCenter=true&width=760&lines=%E2%86%92+Measurable+Operational+Impact"
+    alt="Philosophy line 2"
+  />
 </p>
 <br/>
 <p align="center">
