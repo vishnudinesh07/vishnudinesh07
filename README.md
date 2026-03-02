@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Domain-Healthcare_Analytics-16A34A?style=flat-square"/>
 </p>
 
----
+<br/><br/>
 
 - 🔭 Currently working at **NHS (UK) — BI Developer | Predictive Analytics**
 - ⚙️ Designing **production MLOps pipelines & forecasting systems**
@@ -29,7 +29,7 @@
 - 👨‍💻 Projects: [github.com/vishnudinesh07](https://github.com/vishnudinesh07)
 - 📫 Reach me: vishnu.dinesh.official@gmail.com
 
----
+<br/><br/>
 
 <h3 align="left">Professional Focus</h3>
 
@@ -38,23 +38,9 @@
 - Predictive Healthcare Analytics  
 - Enterprise ML Deployment  
 - Data Governance & Quality Monitoring  
-- Conversational AI Systems  
+- Conversational AI Systems
 
----
-
-<h3 align="center">Connect With Me</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vishnudinesh07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vishnu_Dinesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:vishnu.dinesh.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+<br/><br/>
 
 <h3 align="left">Languages & Tools</h3>
 
@@ -113,7 +99,22 @@
 <img src="https://img.shields.io/badge/Meta-0467DF?style=for-the-badge"/>
 </p>
 
----
+<br/><br/>
+
+<h3 align="center">Connect With Me</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/vishnudinesh07" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Vishnu_Dinesh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:vishnu.dinesh.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+<br/><br/>
 
 <h3 align="left">What I Build</h3>
 
@@ -123,7 +124,7 @@
 - Enterprise conversational AI solutions  
 - Governed ML deployment pipelines  
 
----
+<br/><br/>
 
 <h3 align="left">Philosophy</h3>
 
@@ -131,7 +132,9 @@
 Structured data → Reliable models → Measurable operational impact
 </p>
 
----
+<p align="center">
+<code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code>
+</p>
 
 <p align="center">
 ⭐ If you are building scalable AI systems or operational data platforms, let's connect.
