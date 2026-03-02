@@ -7,7 +7,7 @@
 
 <h3 align="center">
   <strong>
-    <span style="color:#DC2626;">Business Intelligence @ NHS</span> Developer 
+    <span style="color:#DC2626;">Business Intelligence Developer</span> Developer 
     <span style="color:#2E8BFF;">|</span> 
     Developing AI/ML Products
   </strong>
